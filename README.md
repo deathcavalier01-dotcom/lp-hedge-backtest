@@ -1,3 +1,6 @@
+## Deployed
+Streamlit Cloud – Freeze v1 (2026-01-08)
+
 # ETH LP Hedge Backtest
 
 Freeze v1 (2026-01-08)
