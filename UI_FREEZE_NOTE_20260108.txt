@@ -1,0 +1,4 @@
+UI FREEZE: 2026-01-08
+Entry: streamlit run ui_app.py
+Imports: backtest_eth_FREEZE_20260108
+Purpose: browser editable params, run backtest, show summary, show events table
