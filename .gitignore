@@ -1,0 +1,14 @@
+# python
+__pycache__/
+*.pyc
+
+# venv
+venv/
+.venv/
+
+# mac
+.DS_Store
+
+# outputs
+rebalance_events.csv
+rebalance_events_FREEZE_*.csv
